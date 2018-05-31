@@ -1,0 +1,22 @@
+C:\Users\AbnerA\Documents\Kuliah\Semester 4\Strategi Algoritma\Tugas Besar\Tugas Besar 2\Tugas Besar Stima 2 - Master 3\Tugas Besar Stima 2 - Master\bin\Release\Tugas Besar Stima 2 - Master.exe.config
+C:\Users\AbnerA\Documents\Kuliah\Semester 4\Strategi Algoritma\Tugas Besar\Tugas Besar 2\Tugas Besar Stima 2 - Master 3\Tugas Besar Stima 2 - Master\bin\Release\Tugas Besar Stima 2 - Master.exe.manifest
+C:\Users\AbnerA\Documents\Kuliah\Semester 4\Strategi Algoritma\Tugas Besar\Tugas Besar 2\Tugas Besar Stima 2 - Master 3\Tugas Besar Stima 2 - Master\bin\Release\Tugas Besar Stima 2 - Master.application
+C:\Users\AbnerA\Documents\Kuliah\Semester 4\Strategi Algoritma\Tugas Besar\Tugas Besar 2\Tugas Besar Stima 2 - Master 3\Tugas Besar Stima 2 - Master\bin\Release\Tugas Besar Stima 2 - Master.exe
+C:\Users\AbnerA\Documents\Kuliah\Semester 4\Strategi Algoritma\Tugas Besar\Tugas Besar 2\Tugas Besar Stima 2 - Master 3\Tugas Besar Stima 2 - Master\bin\Release\Tugas Besar Stima 2 - Master.pdb
+C:\Users\AbnerA\Documents\Kuliah\Semester 4\Strategi Algoritma\Tugas Besar\Tugas Besar 2\Tugas Besar Stima 2 - Master 3\Tugas Besar Stima 2 - Master\bin\Release\GraphVizWrapper.dll
+C:\Users\AbnerA\Documents\Kuliah\Semester 4\Strategi Algoritma\Tugas Besar\Tugas Besar 2\Tugas Besar Stima 2 - Master 3\Tugas Besar Stima 2 - Master\bin\Release\Microsoft.GLEE.dll
+C:\Users\AbnerA\Documents\Kuliah\Semester 4\Strategi Algoritma\Tugas Besar\Tugas Besar 2\Tugas Besar Stima 2 - Master 3\Tugas Besar Stima 2 - Master\bin\Release\Microsoft.GLEE.Drawing.dll
+C:\Users\AbnerA\Documents\Kuliah\Semester 4\Strategi Algoritma\Tugas Besar\Tugas Besar 2\Tugas Besar Stima 2 - Master 3\Tugas Besar Stima 2 - Master\bin\Release\Microsoft.GLEE.GraphViewerGDI.dll
+C:\Users\AbnerA\Documents\Kuliah\Semester 4\Strategi Algoritma\Tugas Besar\Tugas Besar 2\Tugas Besar Stima 2 - Master 3\Tugas Besar Stima 2 - Master\bin\Release\Microsoft.GLEE.pdb
+C:\Users\AbnerA\Documents\Kuliah\Semester 4\Strategi Algoritma\Tugas Besar\Tugas Besar 2\Tugas Besar Stima 2 - Master 3\Tugas Besar Stima 2 - Master\bin\Release\Microsoft.GLEE.Drawing.pdb
+C:\Users\AbnerA\Documents\Kuliah\Semester 4\Strategi Algoritma\Tugas Besar\Tugas Besar 2\Tugas Besar Stima 2 - Master 3\Tugas Besar Stima 2 - Master\bin\Release\Microsoft.GLEE.GraphViewerGDI.pdb
+C:\Users\AbnerA\Documents\Kuliah\Semester 4\Strategi Algoritma\Tugas Besar\Tugas Besar 2\Tugas Besar Stima 2 - Master 3\Tugas Besar Stima 2 - Master\obj\Release\WindowsFormsApp3.Form1.resources
+C:\Users\AbnerA\Documents\Kuliah\Semester 4\Strategi Algoritma\Tugas Besar\Tugas Besar 2\Tugas Besar Stima 2 - Master 3\Tugas Besar Stima 2 - Master\obj\Release\Tugas_Besar_Stima_2___Master.Properties.Resources.resources
+C:\Users\AbnerA\Documents\Kuliah\Semester 4\Strategi Algoritma\Tugas Besar\Tugas Besar 2\Tugas Besar Stima 2 - Master 3\Tugas Besar Stima 2 - Master\obj\Release\Tugas Besar Stima 2 - Master.csproj.GenerateResource.cache
+C:\Users\AbnerA\Documents\Kuliah\Semester 4\Strategi Algoritma\Tugas Besar\Tugas Besar 2\Tugas Besar Stima 2 - Master 3\Tugas Besar Stima 2 - Master\obj\Release\Tugas Besar Stima 2 - Master.csproj.CoreCompileInputs.cache
+C:\Users\AbnerA\Documents\Kuliah\Semester 4\Strategi Algoritma\Tugas Besar\Tugas Besar 2\Tugas Besar Stima 2 - Master 3\Tugas Besar Stima 2 - Master\obj\Release\Tugas Besar Stima 2 - Master.exe.manifest
+C:\Users\AbnerA\Documents\Kuliah\Semester 4\Strategi Algoritma\Tugas Besar\Tugas Besar 2\Tugas Besar Stima 2 - Master 3\Tugas Besar Stima 2 - Master\obj\Release\Tugas Besar Stima 2 - Master.application
+C:\Users\AbnerA\Documents\Kuliah\Semester 4\Strategi Algoritma\Tugas Besar\Tugas Besar 2\Tugas Besar Stima 2 - Master 3\Tugas Besar Stima 2 - Master\obj\Release\Tugas Besar Stima 2 - Master.csproj.CopyComplete
+C:\Users\AbnerA\Documents\Kuliah\Semester 4\Strategi Algoritma\Tugas Besar\Tugas Besar 2\Tugas Besar Stima 2 - Master 3\Tugas Besar Stima 2 - Master\obj\Release\Tugas Besar Stima 2 - Master.exe
+C:\Users\AbnerA\Documents\Kuliah\Semester 4\Strategi Algoritma\Tugas Besar\Tugas Besar 2\Tugas Besar Stima 2 - Master 3\Tugas Besar Stima 2 - Master\obj\Release\Tugas Besar Stima 2 - Master.pdb
+C:\Users\AbnerA\Documents\Kuliah\Semester 4\Strategi Algoritma\Tugas Besar\Tugas Besar 2\Tugas Besar Stima 2 - Master 3\Tugas Besar Stima 2 - Master\obj\Release\Tugas Besar Stima 2 - Master.csprojResolveAssemblyReference.cache
